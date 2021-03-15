@@ -1,0 +1,41 @@
+.top{
+    position: sticky;
+    top: 0;
+    width: 100%;
+    height: 40px;
+    background-color: orange;
+    text-align: center;
+    line-height: 40px;
+    font-size: 20px;
+    color: #fff;
+}
+.gouimg{
+     display: flex;
+    justify-content: flex-start;
+    /* justify-items: center; */
+}
+.gouimg img{
+    width: 100px;
+    height: 100px;
+}
+li{
+    list-style: none;
+}
+
+.jiajian{
+    width: 80px;
+    height: 20px;
+    display: flex;
+    justify-content: space-around;
+    justify-items: center;
+ 
+}
+.nav{
+    margin-bottom: 20px;
+}
+ul{
+    margin-bottom: 50px;
+}
+.dixia{
+    margin-bottom: 50px;
+}
